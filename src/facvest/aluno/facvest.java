@@ -40,7 +40,7 @@ public class facvest {
 		        System.out.println("Nome: " + aluno.getNome());
 		        System.out.println("Matrícula: " + aluno.getMatricula());
 		        System.out.println("Curso: " + aluno.getCurso());
-		        System.out.println("Situação : " + (aprovado ? "aprovado" : "reprovado") + " com uma média de " + mediaFinal);
+		        System.out.println("Situação: " + (aprovado ? "aprovado" : "reprovado") + " com uma média de " + mediaFinal);
 
 		        scanner.close();
 		    }
